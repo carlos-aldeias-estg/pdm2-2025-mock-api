@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pets": [
+    {
+      "pet_id": "45",
+      "pet_name": "Murphy",
+      "sex": "Male",
+      "age": "Senior",
+      "size": "XLarge",
+      "order": 45,
+      "primaryPhotoId": 7547,
+      "primary_breed_id": 125,
+      "primary_breed": "Golden Retriever",
+      "secondary_breed": null,
+      "addr_city": "Lisbon",
+      "addr_state_code": "PT-13",
+      "details_url": "https://example.org/pets/45",
+      "results_photo_url": "https://place.dog/600/450",
+      "results_photo_width": 600,
+      "results_photo_height": 450,
+      "large_results_photo_url": "https://place.dog/1200/900",
+      "large_results_photo_width": 1200,
+      "large_results_photo_height": 900
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pets": [
+    {
+      "pet_id": "75",
+      "pet_name": "Lucy",
+      "sex": "Male",
+      "age": "Young",
+      "size": "Large",
+      "order": 75,
+      "primaryPhotoId": 5728,
+      "primary_breed_id": 225,
+      "primary_breed": "German Shepherd",
+      "secondary_breed": "Hound Mix",
+      "addr_city": "Faro",
+      "addr_state_code": "PT-01",
+      "details_url": "https://example.org/pets/75",
+      "results_photo_url": "https://place.dog/512/384",
+      "results_photo_width": 512,
+      "results_photo_height": 384,
+      "large_results_photo_url": "https://place.dog/1024/768",
+      "large_results_photo_width": 1024,
+      "large_results_photo_height": 768
+    }
+  ]
+}

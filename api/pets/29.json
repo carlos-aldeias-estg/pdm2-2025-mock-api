@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pets": [
+    {
+      "pet_id": "29",
+      "pet_name": "Finn",
+      "sex": "Female",
+      "age": "Baby",
+      "size": "Large",
+      "order": 29,
+      "primaryPhotoId": 2697,
+      "primary_breed_id": 481,
+      "primary_breed": "Bengal Cat",
+      "secondary_breed": "Mixed",
+      "addr_city": "Faro",
+      "addr_state_code": "PT-13",
+      "details_url": "https://example.org/pets/29",
+      "results_photo_url": "https://placecats.com/320/240",
+      "results_photo_width": 320,
+      "results_photo_height": 240,
+      "large_results_photo_url": "https://placecats.com/640/480",
+      "large_results_photo_width": 640,
+      "large_results_photo_height": 480
+    }
+  ]
+}

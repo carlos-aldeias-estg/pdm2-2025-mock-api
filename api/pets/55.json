@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pets": [
+    {
+      "pet_id": "55",
+      "pet_name": "Cooper",
+      "sex": "Female",
+      "age": "Baby",
+      "size": "Small",
+      "order": 55,
+      "primaryPhotoId": 6733,
+      "primary_breed_id": 115,
+      "primary_breed": "Persian Cat",
+      "secondary_breed": null,
+      "addr_city": "Lisbon",
+      "addr_state_code": "PT-11",
+      "details_url": "https://example.org/pets/55",
+      "results_photo_url": "https://placecats.com/400/300",
+      "results_photo_width": 400,
+      "results_photo_height": 300,
+      "large_results_photo_url": "https://placecats.com/800/600",
+      "large_results_photo_width": 800,
+      "large_results_photo_height": 600
+    }
+  ]
+}

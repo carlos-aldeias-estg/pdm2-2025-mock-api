@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pets": [
+    {
+      "pet_id": "50",
+      "pet_name": "Jasper",
+      "sex": "Female",
+      "age": "Adult",
+      "size": "XLarge",
+      "order": 50,
+      "primaryPhotoId": 7812,
+      "primary_breed_id": 32,
+      "primary_breed": "French Bulldog",
+      "secondary_breed": "Hound Mix",
+      "addr_city": "Aveiro",
+      "addr_state_code": "PT-11",
+      "details_url": "https://example.org/pets/50",
+      "results_photo_url": "https://place.dog/600/450",
+      "results_photo_width": 600,
+      "results_photo_height": 450,
+      "large_results_photo_url": "https://place.dog/1200/900",
+      "large_results_photo_width": 1200,
+      "large_results_photo_height": 900
+    }
+  ]
+}

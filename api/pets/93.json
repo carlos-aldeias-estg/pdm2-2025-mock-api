@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pets": [
+    {
+      "pet_id": "93",
+      "pet_name": "Cooper",
+      "sex": "Female",
+      "age": "Young",
+      "size": "XLarge",
+      "order": 93,
+      "primaryPhotoId": 3344,
+      "primary_breed_id": 119,
+      "primary_breed": "Rottweiler",
+      "secondary_breed": null,
+      "addr_city": "Faro",
+      "addr_state_code": "PT-07",
+      "details_url": "https://example.org/pets/93",
+      "results_photo_url": "https://place.dog/512/384",
+      "results_photo_width": 512,
+      "results_photo_height": 384,
+      "large_results_photo_url": "https://place.dog/1024/768",
+      "large_results_photo_width": 1024,
+      "large_results_photo_height": 768
+    }
+  ]
+}

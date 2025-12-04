@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pets": [
+    {
+      "pet_id": "99",
+      "pet_name": "Bear",
+      "sex": "Male",
+      "age": "Adult",
+      "size": "Large",
+      "order": 99,
+      "primaryPhotoId": 3695,
+      "primary_breed_id": 132,
+      "primary_breed": "Bengal Cat",
+      "secondary_breed": "Hound Mix",
+      "addr_city": "Faro",
+      "addr_state_code": "PT-15",
+      "details_url": "https://example.org/pets/99",
+      "results_photo_url": "https://placecats.com/320/240",
+      "results_photo_width": 320,
+      "results_photo_height": 240,
+      "large_results_photo_url": "https://placecats.com/640/480",
+      "large_results_photo_width": 640,
+      "large_results_photo_height": 480
+    }
+  ]
+}

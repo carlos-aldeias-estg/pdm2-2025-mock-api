@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pets": [
+    {
+      "pet_id": "10",
+      "pet_name": "Roxy",
+      "sex": "Male",
+      "age": "Young",
+      "size": "XLarge",
+      "order": 10,
+      "primaryPhotoId": 2489,
+      "primary_breed_id": 387,
+      "primary_breed": "Labrador Retriever",
+      "secondary_breed": null,
+      "addr_city": "Coimbra",
+      "addr_state_code": "PT-10",
+      "details_url": "https://example.org/pets/10",
+      "results_photo_url": "https://place.dog/600/450",
+      "results_photo_width": 600,
+      "results_photo_height": 450,
+      "large_results_photo_url": "https://place.dog/1200/900",
+      "large_results_photo_width": 1200,
+      "large_results_photo_height": 900
+    }
+  ]
+}

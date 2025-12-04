@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pets": [
+    {
+      "pet_id": "38",
+      "pet_name": "Daisy",
+      "sex": "Female",
+      "age": "Young",
+      "size": "Large",
+      "order": 38,
+      "primaryPhotoId": 1626,
+      "primary_breed_id": 56,
+      "primary_breed": "Siberian Husky",
+      "secondary_breed": "Hound Mix",
+      "addr_city": "Setúbal",
+      "addr_state_code": "PT-15",
+      "details_url": "https://example.org/pets/38",
+      "results_photo_url": "https://place.dog/600/450",
+      "results_photo_width": 600,
+      "results_photo_height": 450,
+      "large_results_photo_url": "https://place.dog/1200/900",
+      "large_results_photo_width": 1200,
+      "large_results_photo_height": 900
+    }
+  ]
+}

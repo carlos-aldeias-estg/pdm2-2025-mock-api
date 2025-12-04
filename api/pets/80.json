@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pets": [
+    {
+      "pet_id": "80",
+      "pet_name": "Nala",
+      "sex": "Female",
+      "age": "Adult",
+      "size": "Small",
+      "order": 80,
+      "primaryPhotoId": 7622,
+      "primary_breed_id": 443,
+      "primary_breed": "Dachshund",
+      "secondary_breed": null,
+      "addr_city": "Évora",
+      "addr_state_code": "PT-01",
+      "details_url": "https://example.org/pets/80",
+      "results_photo_url": "https://place.dog/320/240",
+      "results_photo_width": 320,
+      "results_photo_height": 240,
+      "large_results_photo_url": "https://place.dog/640/480",
+      "large_results_photo_width": 640,
+      "large_results_photo_height": 480
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pets": [
+    {
+      "pet_id": "48",
+      "pet_name": "Bailey",
+      "sex": "Female",
+      "age": "Senior",
+      "size": "Medium",
+      "order": 48,
+      "primaryPhotoId": 5499,
+      "primary_breed_id": 226,
+      "primary_breed": "German Shepherd",
+      "secondary_breed": null,
+      "addr_city": "Faro",
+      "addr_state_code": "PT-03",
+      "details_url": "https://example.org/pets/48",
+      "results_photo_url": "https://place.dog/512/384",
+      "results_photo_width": 512,
+      "results_photo_height": 384,
+      "large_results_photo_url": "https://place.dog/1024/768",
+      "large_results_photo_width": 1024,
+      "large_results_photo_height": 768
+    }
+  ]
+}

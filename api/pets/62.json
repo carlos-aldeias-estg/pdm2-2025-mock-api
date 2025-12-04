@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pets": [
+    {
+      "pet_id": "62",
+      "pet_name": "Ruby",
+      "sex": "Male",
+      "age": "Senior",
+      "size": "Large",
+      "order": 62,
+      "primaryPhotoId": 3979,
+      "primary_breed_id": 250,
+      "primary_breed": "French Bulldog",
+      "secondary_breed": "Terrier Mix",
+      "addr_city": "Faro",
+      "addr_state_code": "PT-15",
+      "details_url": "https://example.org/pets/62",
+      "results_photo_url": "https://place.dog/512/384",
+      "results_photo_width": 512,
+      "results_photo_height": 384,
+      "large_results_photo_url": "https://place.dog/1024/768",
+      "large_results_photo_width": 1024,
+      "large_results_photo_height": 768
+    }
+  ]
+}

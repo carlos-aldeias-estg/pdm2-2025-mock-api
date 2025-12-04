@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pets": [
+    {
+      "pet_id": "19",
+      "pet_name": "Jasper",
+      "sex": "Male",
+      "age": "Baby",
+      "size": "Small",
+      "order": 19,
+      "primaryPhotoId": 8062,
+      "primary_breed_id": 182,
+      "primary_breed": "Beagle",
+      "secondary_breed": "Hound Mix",
+      "addr_city": "Évora",
+      "addr_state_code": "PT-11",
+      "details_url": "https://example.org/pets/19",
+      "results_photo_url": "https://place.dog/320/240",
+      "results_photo_width": 320,
+      "results_photo_height": 240,
+      "large_results_photo_url": "https://place.dog/640/480",
+      "large_results_photo_width": 640,
+      "large_results_photo_height": 480
+    }
+  ]
+}

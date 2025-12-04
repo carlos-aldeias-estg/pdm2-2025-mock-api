@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pets": [
+    {
+      "pet_id": "43",
+      "pet_name": "Finn",
+      "sex": "Male",
+      "age": "Senior",
+      "size": "Medium",
+      "order": 43,
+      "primaryPhotoId": 2389,
+      "primary_breed_id": 146,
+      "primary_breed": "Dachshund",
+      "secondary_breed": null,
+      "addr_city": "Setúbal",
+      "addr_state_code": "PT-13",
+      "details_url": "https://example.org/pets/43",
+      "results_photo_url": "https://place.dog/400/300",
+      "results_photo_width": 400,
+      "results_photo_height": 300,
+      "large_results_photo_url": "https://place.dog/800/600",
+      "large_results_photo_width": 800,
+      "large_results_photo_height": 600
+    }
+  ]
+}

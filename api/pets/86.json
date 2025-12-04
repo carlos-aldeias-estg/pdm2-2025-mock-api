@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pets": [
+    {
+      "pet_id": "86",
+      "pet_name": "Louie",
+      "sex": "Female",
+      "age": "Adult",
+      "size": "Large",
+      "order": 86,
+      "primaryPhotoId": 9903,
+      "primary_breed_id": 194,
+      "primary_breed": "Rottweiler",
+      "secondary_breed": "Terrier Mix",
+      "addr_city": "Braga",
+      "addr_state_code": "PT-03",
+      "details_url": "https://example.org/pets/86",
+      "results_photo_url": "https://place.dog/600/450",
+      "results_photo_width": 600,
+      "results_photo_height": 450,
+      "large_results_photo_url": "https://place.dog/1200/900",
+      "large_results_photo_width": 1200,
+      "large_results_photo_height": 900
+    }
+  ]
+}

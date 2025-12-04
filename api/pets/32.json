@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pets": [
+    {
+      "pet_id": "32",
+      "pet_name": "Sophie",
+      "sex": "Female",
+      "age": "Baby",
+      "size": "Small",
+      "order": 32,
+      "primaryPhotoId": 2232,
+      "primary_breed_id": 484,
+      "primary_breed": "Bengal Cat",
+      "secondary_breed": null,
+      "addr_city": "Coimbra",
+      "addr_state_code": "PT-11",
+      "details_url": "https://example.org/pets/32",
+      "results_photo_url": "https://placecats.com/512/384",
+      "results_photo_width": 512,
+      "results_photo_height": 384,
+      "large_results_photo_url": "https://placecats.com/1024/768",
+      "large_results_photo_width": 1024,
+      "large_results_photo_height": 768
+    }
+  ]
+}

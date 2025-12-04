@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pets": [
+    {
+      "pet_id": "77",
+      "pet_name": "Cooper",
+      "sex": "Male",
+      "age": "Baby",
+      "size": "Large",
+      "order": 77,
+      "primaryPhotoId": 1659,
+      "primary_breed_id": 391,
+      "primary_breed": "Siamese Cat",
+      "secondary_breed": "Mixed",
+      "addr_city": "Évora",
+      "addr_state_code": "PT-07",
+      "details_url": "https://example.org/pets/77",
+      "results_photo_url": "https://placecats.com/512/384",
+      "results_photo_width": 512,
+      "results_photo_height": 384,
+      "large_results_photo_url": "https://placecats.com/1024/768",
+      "large_results_photo_width": 1024,
+      "large_results_photo_height": 768
+    }
+  ]
+}

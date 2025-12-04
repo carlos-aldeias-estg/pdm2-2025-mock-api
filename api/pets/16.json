@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pets": [
+    {
+      "pet_id": "16",
+      "pet_name": "Leo",
+      "sex": "Female",
+      "age": "Adult",
+      "size": "XLarge",
+      "order": 16,
+      "primaryPhotoId": 9479,
+      "primary_breed_id": 232,
+      "primary_breed": "German Shepherd",
+      "secondary_breed": "Mixed",
+      "addr_city": "Braga",
+      "addr_state_code": "PT-13",
+      "details_url": "https://example.org/pets/16",
+      "results_photo_url": "https://place.dog/512/384",
+      "results_photo_width": 512,
+      "results_photo_height": 384,
+      "large_results_photo_url": "https://place.dog/1024/768",
+      "large_results_photo_width": 1024,
+      "large_results_photo_height": 768
+    }
+  ]
+}

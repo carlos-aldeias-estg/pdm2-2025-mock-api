@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pets": [
+    {
+      "pet_id": "96",
+      "pet_name": "Max",
+      "sex": "Female",
+      "age": "Adult",
+      "size": "Small",
+      "order": 96,
+      "primaryPhotoId": 1803,
+      "primary_breed_id": 467,
+      "primary_breed": "Siberian Husky",
+      "secondary_breed": null,
+      "addr_city": "Évora",
+      "addr_state_code": "PT-08",
+      "details_url": "https://example.org/pets/96",
+      "results_photo_url": "https://place.dog/400/300",
+      "results_photo_width": 400,
+      "results_photo_height": 300,
+      "large_results_photo_url": "https://place.dog/800/600",
+      "large_results_photo_width": 800,
+      "large_results_photo_height": 600
+    }
+  ]
+}

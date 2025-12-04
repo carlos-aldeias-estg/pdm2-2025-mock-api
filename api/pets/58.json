@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pets": [
+    {
+      "pet_id": "58",
+      "pet_name": "Bear",
+      "sex": "Male",
+      "age": "Young",
+      "size": "Small",
+      "order": 58,
+      "primaryPhotoId": 5941,
+      "primary_breed_id": 436,
+      "primary_breed": "Persian Cat",
+      "secondary_breed": "Shepherd Mix",
+      "addr_city": "Porto",
+      "addr_state_code": "PT-11",
+      "details_url": "https://example.org/pets/58",
+      "results_photo_url": "https://placecats.com/512/384",
+      "results_photo_width": 512,
+      "results_photo_height": 384,
+      "large_results_photo_url": "https://placecats.com/1024/768",
+      "large_results_photo_width": 1024,
+      "large_results_photo_height": 768
+    }
+  ]
+}

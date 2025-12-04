@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pets": [
+    {
+      "pet_id": "100",
+      "pet_name": "Chloe",
+      "sex": "Male",
+      "age": "Young",
+      "size": "Medium",
+      "order": 100,
+      "primaryPhotoId": 7511,
+      "primary_breed_id": 496,
+      "primary_breed": "British Shorthair",
+      "secondary_breed": "Shepherd Mix",
+      "addr_city": "Setúbal",
+      "addr_state_code": "PT-13",
+      "details_url": "https://example.org/pets/100",
+      "results_photo_url": "https://placecats.com/600/450",
+      "results_photo_width": 600,
+      "results_photo_height": 450,
+      "large_results_photo_url": "https://placecats.com/1200/900",
+      "large_results_photo_width": 1200,
+      "large_results_photo_height": 900
+    }
+  ]
+}

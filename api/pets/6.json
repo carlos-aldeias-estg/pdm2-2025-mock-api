@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pets": [
+    {
+      "pet_id": "6",
+      "pet_name": "Milo",
+      "sex": "Female",
+      "age": "Adult",
+      "size": "XLarge",
+      "order": 6,
+      "primaryPhotoId": 6977,
+      "primary_breed_id": 84,
+      "primary_breed": "Poodle",
+      "secondary_breed": "Terrier Mix",
+      "addr_city": "Braga",
+      "addr_state_code": "PT-08",
+      "details_url": "https://example.org/pets/6",
+      "results_photo_url": "https://place.dog/320/240",
+      "results_photo_width": 320,
+      "results_photo_height": 240,
+      "large_results_photo_url": "https://place.dog/640/480",
+      "large_results_photo_width": 640,
+      "large_results_photo_height": 480
+    }
+  ]
+}

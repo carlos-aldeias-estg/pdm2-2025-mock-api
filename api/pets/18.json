@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pets": [
+    {
+      "pet_id": "18",
+      "pet_name": "Ruby",
+      "sex": "Male",
+      "age": "Young",
+      "size": "Large",
+      "order": 18,
+      "primaryPhotoId": 8953,
+      "primary_breed_id": 110,
+      "primary_breed": "Dachshund",
+      "secondary_breed": "Mixed",
+      "addr_city": "Évora",
+      "addr_state_code": "PT-03",
+      "details_url": "https://example.org/pets/18",
+      "results_photo_url": "https://place.dog/600/450",
+      "results_photo_width": 600,
+      "results_photo_height": 450,
+      "large_results_photo_url": "https://place.dog/1200/900",
+      "large_results_photo_width": 1200,
+      "large_results_photo_height": 900
+    }
+  ]
+}

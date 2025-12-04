@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pets": [
+    {
+      "pet_id": "5",
+      "pet_name": "Cooper",
+      "sex": "Female",
+      "age": "Adult",
+      "size": "Medium",
+      "order": 5,
+      "primaryPhotoId": 2139,
+      "primary_breed_id": 24,
+      "primary_breed": "Persian Cat",
+      "secondary_breed": "Mixed",
+      "addr_city": "Faro",
+      "addr_state_code": "PT-13",
+      "details_url": "https://example.org/pets/5",
+      "results_photo_url": "https://placecats.com/400/300",
+      "results_photo_width": 400,
+      "results_photo_height": 300,
+      "large_results_photo_url": "https://placecats.com/800/600",
+      "large_results_photo_width": 800,
+      "large_results_photo_height": 600
+    }
+  ]
+}

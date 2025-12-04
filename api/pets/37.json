@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pets": [
+    {
+      "pet_id": "37",
+      "pet_name": "Penny",
+      "sex": "Female",
+      "age": "Adult",
+      "size": "Small",
+      "order": 37,
+      "primaryPhotoId": 5573,
+      "primary_breed_id": 180,
+      "primary_breed": "Persian Cat",
+      "secondary_breed": "Shepherd Mix",
+      "addr_city": "Aveiro",
+      "addr_state_code": "PT-15",
+      "details_url": "https://example.org/pets/37",
+      "results_photo_url": "https://placecats.com/320/240",
+      "results_photo_width": 320,
+      "results_photo_height": 240,
+      "large_results_photo_url": "https://placecats.com/640/480",
+      "large_results_photo_width": 640,
+      "large_results_photo_height": 480
+    }
+  ]
+}

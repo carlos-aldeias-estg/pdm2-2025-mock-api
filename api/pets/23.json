@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pets": [
+    {
+      "pet_id": "23",
+      "pet_name": "Luna",
+      "sex": "Female",
+      "age": "Adult",
+      "size": "XLarge",
+      "order": 23,
+      "primaryPhotoId": 5673,
+      "primary_breed_id": 217,
+      "primary_breed": "Maine Coon",
+      "secondary_breed": null,
+      "addr_city": "Évora",
+      "addr_state_code": "PT-10",
+      "details_url": "https://example.org/pets/23",
+      "results_photo_url": "https://placecats.com/400/300",
+      "results_photo_width": 400,
+      "results_photo_height": 300,
+      "large_results_photo_url": "https://placecats.com/800/600",
+      "large_results_photo_width": 800,
+      "large_results_photo_height": 600
+    }
+  ]
+}

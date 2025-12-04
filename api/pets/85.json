@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pets": [
+    {
+      "pet_id": "85",
+      "pet_name": "Jasper",
+      "sex": "Female",
+      "age": "Adult",
+      "size": "Small",
+      "order": 85,
+      "primaryPhotoId": 5634,
+      "primary_breed_id": 372,
+      "primary_breed": "Bulldog",
+      "secondary_breed": "Shepherd Mix",
+      "addr_city": "Évora",
+      "addr_state_code": "PT-10",
+      "details_url": "https://example.org/pets/85",
+      "results_photo_url": "https://place.dog/600/450",
+      "results_photo_width": 600,
+      "results_photo_height": 450,
+      "large_results_photo_url": "https://place.dog/1200/900",
+      "large_results_photo_width": 1200,
+      "large_results_photo_height": 900
+    }
+  ]
+}

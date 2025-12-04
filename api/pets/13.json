@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pets": [
+    {
+      "pet_id": "13",
+      "pet_name": "Leo",
+      "sex": "Male",
+      "age": "Young",
+      "size": "Large",
+      "order": 13,
+      "primaryPhotoId": 3646,
+      "primary_breed_id": 277,
+      "primary_breed": "Siamese Cat",
+      "secondary_breed": "Shepherd Mix",
+      "addr_city": "Lisbon",
+      "addr_state_code": "PT-15",
+      "details_url": "https://example.org/pets/13",
+      "results_photo_url": "https://placecats.com/600/450",
+      "results_photo_width": 600,
+      "results_photo_height": 450,
+      "large_results_photo_url": "https://placecats.com/1200/900",
+      "large_results_photo_width": 1200,
+      "large_results_photo_height": 900
+    }
+  ]
+}

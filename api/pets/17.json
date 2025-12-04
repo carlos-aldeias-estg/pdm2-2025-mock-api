@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pets": [
+    {
+      "pet_id": "17",
+      "pet_name": "Max",
+      "sex": "Male",
+      "age": "Young",
+      "size": "Small",
+      "order": 17,
+      "primaryPhotoId": 2163,
+      "primary_breed_id": 363,
+      "primary_breed": "Persian Cat",
+      "secondary_breed": null,
+      "addr_city": "Braga",
+      "addr_state_code": "PT-13",
+      "details_url": "https://example.org/pets/17",
+      "results_photo_url": "https://placecats.com/320/240",
+      "results_photo_width": 320,
+      "results_photo_height": 240,
+      "large_results_photo_url": "https://placecats.com/640/480",
+      "large_results_photo_width": 640,
+      "large_results_photo_height": 480
+    }
+  ]
+}

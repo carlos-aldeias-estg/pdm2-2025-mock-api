@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pets": [
+    {
+      "pet_id": "84",
+      "pet_name": "Harley",
+      "sex": "Male",
+      "age": "Senior",
+      "size": "Medium",
+      "order": 84,
+      "primaryPhotoId": 7284,
+      "primary_breed_id": 98,
+      "primary_breed": "Bengal Cat",
+      "secondary_breed": "Shepherd Mix",
+      "addr_city": "Coimbra",
+      "addr_state_code": "PT-13",
+      "details_url": "https://example.org/pets/84",
+      "results_photo_url": "https://placecats.com/512/384",
+      "results_photo_width": 512,
+      "results_photo_height": 384,
+      "large_results_photo_url": "https://placecats.com/1024/768",
+      "large_results_photo_width": 1024,
+      "large_results_photo_height": 768
+    }
+  ]
+}

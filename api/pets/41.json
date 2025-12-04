@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pets": [
+    {
+      "pet_id": "41",
+      "pet_name": "Penny",
+      "sex": "Female",
+      "age": "Young",
+      "size": "Medium",
+      "order": 41,
+      "primaryPhotoId": 7888,
+      "primary_breed_id": 341,
+      "primary_breed": "Beagle",
+      "secondary_breed": null,
+      "addr_city": "Coimbra",
+      "addr_state_code": "PT-08",
+      "details_url": "https://example.org/pets/41",
+      "results_photo_url": "https://place.dog/600/450",
+      "results_photo_width": 600,
+      "results_photo_height": 450,
+      "large_results_photo_url": "https://place.dog/1200/900",
+      "large_results_photo_width": 1200,
+      "large_results_photo_height": 900
+    }
+  ]
+}

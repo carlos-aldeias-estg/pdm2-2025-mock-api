@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pets": [
+    {
+      "pet_id": "87",
+      "pet_name": "Tucker",
+      "sex": "Female",
+      "age": "Baby",
+      "size": "Large",
+      "order": 87,
+      "primaryPhotoId": 8749,
+      "primary_breed_id": 362,
+      "primary_breed": "Bengal Cat",
+      "secondary_breed": "Hound Mix",
+      "addr_city": "Aveiro",
+      "addr_state_code": "PT-10",
+      "details_url": "https://example.org/pets/87",
+      "results_photo_url": "https://placecats.com/600/450",
+      "results_photo_width": 600,
+      "results_photo_height": 450,
+      "large_results_photo_url": "https://placecats.com/1200/900",
+      "large_results_photo_width": 1200,
+      "large_results_photo_height": 900
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "status": "ok",
+  "pets": [
+    {
+      "pet_id": "54",
+      "pet_name": "Zoe",
+      "sex": "Female",
+      "age": "Adult",
+      "size": "Medium",
+      "order": 54,
+      "primaryPhotoId": 8449,
+      "primary_breed_id": 168,
+      "primary_breed": "Poodle",
+      "secondary_breed": "Hound Mix",
+      "addr_city": "Faro",
+      "addr_state_code": "PT-01",
+      "details_url": "https://example.org/pets/54",
+      "results_photo_url": "https://place.dog/512/384",
+      "results_photo_width": 512,
+      "results_photo_height": 384,
+      "large_results_photo_url": "https://place.dog/1024/768",
+      "large_results_photo_width": 1024,
+      "large_results_photo_height": 768
+    }
+  ]
+}
