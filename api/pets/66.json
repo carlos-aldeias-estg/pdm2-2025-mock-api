@@ -1,26 +1,21 @@
 {
-  "status": "ok",
-  "pets": [
-    {
-      "pet_id": "66",
-      "pet_name": "Daisy",
-      "sex": "Male",
-      "age": "Adult",
-      "size": "Small",
-      "order": 66,
-      "primaryPhotoId": 9779,
-      "primary_breed_id": 487,
-      "primary_breed": "Siamese Cat",
-      "secondary_breed": null,
-      "addr_city": "Coimbra",
-      "addr_state_code": "PT-03",
-      "details_url": "https://example.org/pets/66",
-      "results_photo_url": "https://placecats.com/400/300",
-      "results_photo_width": 400,
-      "results_photo_height": 300,
-      "large_results_photo_url": "https://placecats.com/800/600",
-      "large_results_photo_width": 800,
-      "large_results_photo_height": 600
-    }
-  ]
+  "pet_id": "66",
+  "pet_name": "Daisy",
+  "sex": "Male",
+  "age": "Adult",
+  "size": "Small",
+  "order": 66,
+  "primaryPhotoId": 9779,
+  "primary_breed_id": 487,
+  "primary_breed": "Siamese Cat",
+  "secondary_breed": null,
+  "addr_city": "Coimbra",
+  "addr_state_code": "PT-03",
+  "details_url": "https://example.org/pets/66",
+  "results_photo_url": "https://placecats.com/400/300",
+  "results_photo_width": 400,
+  "results_photo_height": 300,
+  "large_results_photo_url": "https://placecats.com/800/600",
+  "large_results_photo_width": 800,
+  "large_results_photo_height": 600
 }

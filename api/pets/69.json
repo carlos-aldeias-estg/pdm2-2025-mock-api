@@ -1,26 +1,21 @@
 {
-  "status": "ok",
-  "pets": [
-    {
-      "pet_id": "69",
-      "pet_name": "Luna",
-      "sex": "Female",
-      "age": "Senior",
-      "size": "XLarge",
-      "order": 69,
-      "primaryPhotoId": 8216,
-      "primary_breed_id": 175,
-      "primary_breed": "Golden Retriever",
-      "secondary_breed": null,
-      "addr_city": "Faro",
-      "addr_state_code": "PT-07",
-      "details_url": "https://example.org/pets/69",
-      "results_photo_url": "https://place.dog/320/240",
-      "results_photo_width": 320,
-      "results_photo_height": 240,
-      "large_results_photo_url": "https://place.dog/640/480",
-      "large_results_photo_width": 640,
-      "large_results_photo_height": 480
-    }
-  ]
+  "pet_id": "69",
+  "pet_name": "Luna",
+  "sex": "Female",
+  "age": "Senior",
+  "size": "XLarge",
+  "order": 69,
+  "primaryPhotoId": 8216,
+  "primary_breed_id": 175,
+  "primary_breed": "Golden Retriever",
+  "secondary_breed": null,
+  "addr_city": "Faro",
+  "addr_state_code": "PT-07",
+  "details_url": "https://example.org/pets/69",
+  "results_photo_url": "https://place.dog/320/240",
+  "results_photo_width": 320,
+  "results_photo_height": 240,
+  "large_results_photo_url": "https://place.dog/640/480",
+  "large_results_photo_width": 640,
+  "large_results_photo_height": 480
 }

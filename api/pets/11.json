@@ -1,26 +1,21 @@
 {
-  "status": "ok",
-  "pets": [
-    {
-      "pet_id": "11",
-      "pet_name": "Jack",
-      "sex": "Male",
-      "age": "Senior",
-      "size": "XLarge",
-      "order": 11,
-      "primaryPhotoId": 8668,
-      "primary_breed_id": 271,
-      "primary_breed": "Bulldog",
-      "secondary_breed": "Shepherd Mix",
-      "addr_city": "Lisbon",
-      "addr_state_code": "PT-13",
-      "details_url": "https://example.org/pets/11",
-      "results_photo_url": "https://place.dog/512/384",
-      "results_photo_width": 512,
-      "results_photo_height": 384,
-      "large_results_photo_url": "https://place.dog/1024/768",
-      "large_results_photo_width": 1024,
-      "large_results_photo_height": 768
-    }
-  ]
+  "pet_id": "11",
+  "pet_name": "Jack",
+  "sex": "Male",
+  "age": "Senior",
+  "size": "XLarge",
+  "order": 11,
+  "primaryPhotoId": 8668,
+  "primary_breed_id": 271,
+  "primary_breed": "Bulldog",
+  "secondary_breed": "Shepherd Mix",
+  "addr_city": "Lisbon",
+  "addr_state_code": "PT-13",
+  "details_url": "https://example.org/pets/11",
+  "results_photo_url": "https://place.dog/512/384",
+  "results_photo_width": 512,
+  "results_photo_height": 384,
+  "large_results_photo_url": "https://place.dog/1024/768",
+  "large_results_photo_width": 1024,
+  "large_results_photo_height": 768
 }

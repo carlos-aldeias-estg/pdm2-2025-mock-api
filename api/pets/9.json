@@ -1,26 +1,21 @@
 {
-  "status": "ok",
-  "pets": [
-    {
-      "pet_id": "9",
-      "pet_name": "Penny",
-      "sex": "Female",
-      "age": "Young",
-      "size": "Large",
-      "order": 9,
-      "primaryPhotoId": 3287,
-      "primary_breed_id": 127,
-      "primary_breed": "Maine Coon",
-      "secondary_breed": "Shepherd Mix",
-      "addr_city": "Faro",
-      "addr_state_code": "PT-01",
-      "details_url": "https://example.org/pets/9",
-      "results_photo_url": "https://placecats.com/600/450",
-      "results_photo_width": 600,
-      "results_photo_height": 450,
-      "large_results_photo_url": "https://placecats.com/1200/900",
-      "large_results_photo_width": 1200,
-      "large_results_photo_height": 900
-    }
-  ]
+  "pet_id": "9",
+  "pet_name": "Penny",
+  "sex": "Female",
+  "age": "Young",
+  "size": "Large",
+  "order": 9,
+  "primaryPhotoId": 3287,
+  "primary_breed_id": 127,
+  "primary_breed": "Maine Coon",
+  "secondary_breed": "Shepherd Mix",
+  "addr_city": "Faro",
+  "addr_state_code": "PT-01",
+  "details_url": "https://example.org/pets/9",
+  "results_photo_url": "https://placecats.com/600/450",
+  "results_photo_width": 600,
+  "results_photo_height": 450,
+  "large_results_photo_url": "https://placecats.com/1200/900",
+  "large_results_photo_width": 1200,
+  "large_results_photo_height": 900
 }

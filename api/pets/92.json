@@ -1,26 +1,21 @@
 {
-  "status": "ok",
-  "pets": [
-    {
-      "pet_id": "92",
-      "pet_name": "Bentley",
-      "sex": "Female",
-      "age": "Senior",
-      "size": "Medium",
-      "order": 92,
-      "primaryPhotoId": 5000,
-      "primary_breed_id": 272,
-      "primary_breed": "Beagle",
-      "secondary_breed": "Shepherd Mix",
-      "addr_city": "Coimbra",
-      "addr_state_code": "PT-10",
-      "details_url": "https://example.org/pets/92",
-      "results_photo_url": "https://place.dog/400/300",
-      "results_photo_width": 400,
-      "results_photo_height": 300,
-      "large_results_photo_url": "https://place.dog/800/600",
-      "large_results_photo_width": 800,
-      "large_results_photo_height": 600
-    }
-  ]
+  "pet_id": "92",
+  "pet_name": "Bentley",
+  "sex": "Female",
+  "age": "Senior",
+  "size": "Medium",
+  "order": 92,
+  "primaryPhotoId": 5000,
+  "primary_breed_id": 272,
+  "primary_breed": "Beagle",
+  "secondary_breed": "Shepherd Mix",
+  "addr_city": "Coimbra",
+  "addr_state_code": "PT-10",
+  "details_url": "https://example.org/pets/92",
+  "results_photo_url": "https://place.dog/400/300",
+  "results_photo_width": 400,
+  "results_photo_height": 300,
+  "large_results_photo_url": "https://place.dog/800/600",
+  "large_results_photo_width": 800,
+  "large_results_photo_height": 600
 }

@@ -1,26 +1,21 @@
 {
-  "status": "ok",
-  "pets": [
-    {
-      "pet_id": "79",
-      "pet_name": "Ruby",
-      "sex": "Female",
-      "age": "Senior",
-      "size": "Large",
-      "order": 79,
-      "primaryPhotoId": 7561,
-      "primary_breed_id": 417,
-      "primary_breed": "Siamese Cat",
-      "secondary_breed": "Shepherd Mix",
-      "addr_city": "Lisbon",
-      "addr_state_code": "PT-07",
-      "details_url": "https://example.org/pets/79",
-      "results_photo_url": "https://placecats.com/320/240",
-      "results_photo_width": 320,
-      "results_photo_height": 240,
-      "large_results_photo_url": "https://placecats.com/640/480",
-      "large_results_photo_width": 640,
-      "large_results_photo_height": 480
-    }
-  ]
+  "pet_id": "79",
+  "pet_name": "Ruby",
+  "sex": "Female",
+  "age": "Senior",
+  "size": "Large",
+  "order": 79,
+  "primaryPhotoId": 7561,
+  "primary_breed_id": 417,
+  "primary_breed": "Siamese Cat",
+  "secondary_breed": "Shepherd Mix",
+  "addr_city": "Lisbon",
+  "addr_state_code": "PT-07",
+  "details_url": "https://example.org/pets/79",
+  "results_photo_url": "https://placecats.com/320/240",
+  "results_photo_width": 320,
+  "results_photo_height": 240,
+  "large_results_photo_url": "https://placecats.com/640/480",
+  "large_results_photo_width": 640,
+  "large_results_photo_height": 480
 }

@@ -1,26 +1,21 @@
 {
-  "status": "ok",
-  "pets": [
-    {
-      "pet_id": "3",
-      "pet_name": "Finn",
-      "sex": "Female",
-      "age": "Baby",
-      "size": "Medium",
-      "order": 3,
-      "primaryPhotoId": 7924,
-      "primary_breed_id": 175,
-      "primary_breed": "Bulldog",
-      "secondary_breed": "Mixed",
-      "addr_city": "Braga",
-      "addr_state_code": "PT-15",
-      "details_url": "https://example.org/pets/3",
-      "results_photo_url": "https://place.dog/320/240",
-      "results_photo_width": 320,
-      "results_photo_height": 240,
-      "large_results_photo_url": "https://place.dog/640/480",
-      "large_results_photo_width": 640,
-      "large_results_photo_height": 480
-    }
-  ]
+  "pet_id": "3",
+  "pet_name": "Finn",
+  "sex": "Female",
+  "age": "Baby",
+  "size": "Medium",
+  "order": 3,
+  "primaryPhotoId": 7924,
+  "primary_breed_id": 175,
+  "primary_breed": "Bulldog",
+  "secondary_breed": "Mixed",
+  "addr_city": "Braga",
+  "addr_state_code": "PT-15",
+  "details_url": "https://example.org/pets/3",
+  "results_photo_url": "https://place.dog/320/240",
+  "results_photo_width": 320,
+  "results_photo_height": 240,
+  "large_results_photo_url": "https://place.dog/640/480",
+  "large_results_photo_width": 640,
+  "large_results_photo_height": 480
 }

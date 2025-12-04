@@ -1,26 +1,21 @@
 {
-  "status": "ok",
-  "pets": [
-    {
-      "pet_id": "49",
-      "pet_name": "Ruby",
-      "sex": "Female",
-      "age": "Baby",
-      "size": "Medium",
-      "order": 49,
-      "primaryPhotoId": 3471,
-      "primary_breed_id": 119,
-      "primary_breed": "Beagle",
-      "secondary_breed": null,
-      "addr_city": "Coimbra",
-      "addr_state_code": "PT-03",
-      "details_url": "https://example.org/pets/49",
-      "results_photo_url": "https://place.dog/320/240",
-      "results_photo_width": 320,
-      "results_photo_height": 240,
-      "large_results_photo_url": "https://place.dog/640/480",
-      "large_results_photo_width": 640,
-      "large_results_photo_height": 480
-    }
-  ]
+  "pet_id": "49",
+  "pet_name": "Ruby",
+  "sex": "Female",
+  "age": "Baby",
+  "size": "Medium",
+  "order": 49,
+  "primaryPhotoId": 3471,
+  "primary_breed_id": 119,
+  "primary_breed": "Beagle",
+  "secondary_breed": null,
+  "addr_city": "Coimbra",
+  "addr_state_code": "PT-03",
+  "details_url": "https://example.org/pets/49",
+  "results_photo_url": "https://place.dog/320/240",
+  "results_photo_width": 320,
+  "results_photo_height": 240,
+  "large_results_photo_url": "https://place.dog/640/480",
+  "large_results_photo_width": 640,
+  "large_results_photo_height": 480
 }

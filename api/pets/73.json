@@ -1,26 +1,21 @@
 {
-  "status": "ok",
-  "pets": [
-    {
-      "pet_id": "73",
-      "pet_name": "Buddy",
-      "sex": "Male",
-      "age": "Senior",
-      "size": "XLarge",
-      "order": 73,
-      "primaryPhotoId": 8699,
-      "primary_breed_id": 150,
-      "primary_breed": "Labrador Retriever",
-      "secondary_breed": "Mixed",
-      "addr_city": "Faro",
-      "addr_state_code": "PT-08",
-      "details_url": "https://example.org/pets/73",
-      "results_photo_url": "https://place.dog/600/450",
-      "results_photo_width": 600,
-      "results_photo_height": 450,
-      "large_results_photo_url": "https://place.dog/1200/900",
-      "large_results_photo_width": 1200,
-      "large_results_photo_height": 900
-    }
-  ]
+  "pet_id": "73",
+  "pet_name": "Buddy",
+  "sex": "Male",
+  "age": "Senior",
+  "size": "XLarge",
+  "order": 73,
+  "primaryPhotoId": 8699,
+  "primary_breed_id": 150,
+  "primary_breed": "Labrador Retriever",
+  "secondary_breed": "Mixed",
+  "addr_city": "Faro",
+  "addr_state_code": "PT-08",
+  "details_url": "https://example.org/pets/73",
+  "results_photo_url": "https://place.dog/600/450",
+  "results_photo_width": 600,
+  "results_photo_height": 450,
+  "large_results_photo_url": "https://place.dog/1200/900",
+  "large_results_photo_width": 1200,
+  "large_results_photo_height": 900
 }

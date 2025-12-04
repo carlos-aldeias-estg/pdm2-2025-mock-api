@@ -1,26 +1,21 @@
 {
-  "status": "ok",
-  "pets": [
-    {
-      "pet_id": "72",
-      "pet_name": "Nova",
-      "sex": "Male",
-      "age": "Young",
-      "size": "Medium",
-      "order": 72,
-      "primaryPhotoId": 5335,
-      "primary_breed_id": 339,
-      "primary_breed": "German Shepherd",
-      "secondary_breed": "Mixed",
-      "addr_city": "Braga",
-      "addr_state_code": "PT-10",
-      "details_url": "https://example.org/pets/72",
-      "results_photo_url": "https://place.dog/320/240",
-      "results_photo_width": 320,
-      "results_photo_height": 240,
-      "large_results_photo_url": "https://place.dog/640/480",
-      "large_results_photo_width": 640,
-      "large_results_photo_height": 480
-    }
-  ]
+  "pet_id": "72",
+  "pet_name": "Nova",
+  "sex": "Male",
+  "age": "Young",
+  "size": "Medium",
+  "order": 72,
+  "primaryPhotoId": 5335,
+  "primary_breed_id": 339,
+  "primary_breed": "German Shepherd",
+  "secondary_breed": "Mixed",
+  "addr_city": "Braga",
+  "addr_state_code": "PT-10",
+  "details_url": "https://example.org/pets/72",
+  "results_photo_url": "https://place.dog/320/240",
+  "results_photo_width": 320,
+  "results_photo_height": 240,
+  "large_results_photo_url": "https://place.dog/640/480",
+  "large_results_photo_width": 640,
+  "large_results_photo_height": 480
 }

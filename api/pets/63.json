@@ -1,26 +1,21 @@
 {
-  "status": "ok",
-  "pets": [
-    {
-      "pet_id": "63",
-      "pet_name": "Jack",
-      "sex": "Female",
-      "age": "Baby",
-      "size": "Medium",
-      "order": 63,
-      "primaryPhotoId": 2402,
-      "primary_breed_id": 124,
-      "primary_breed": "Maine Coon",
-      "secondary_breed": "Hound Mix",
-      "addr_city": "Évora",
-      "addr_state_code": "PT-03",
-      "details_url": "https://example.org/pets/63",
-      "results_photo_url": "https://placecats.com/600/450",
-      "results_photo_width": 600,
-      "results_photo_height": 450,
-      "large_results_photo_url": "https://placecats.com/1200/900",
-      "large_results_photo_width": 1200,
-      "large_results_photo_height": 900
-    }
-  ]
+  "pet_id": "63",
+  "pet_name": "Jack",
+  "sex": "Female",
+  "age": "Baby",
+  "size": "Medium",
+  "order": 63,
+  "primaryPhotoId": 2402,
+  "primary_breed_id": 124,
+  "primary_breed": "Maine Coon",
+  "secondary_breed": "Hound Mix",
+  "addr_city": "Évora",
+  "addr_state_code": "PT-03",
+  "details_url": "https://example.org/pets/63",
+  "results_photo_url": "https://placecats.com/600/450",
+  "results_photo_width": 600,
+  "results_photo_height": 450,
+  "large_results_photo_url": "https://placecats.com/1200/900",
+  "large_results_photo_width": 1200,
+  "large_results_photo_height": 900
 }

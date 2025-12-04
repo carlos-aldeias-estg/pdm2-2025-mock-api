@@ -1,26 +1,21 @@
 {
-  "status": "ok",
-  "pets": [
-    {
-      "pet_id": "64",
-      "pet_name": "Willow",
-      "sex": "Female",
-      "age": "Baby",
-      "size": "Small",
-      "order": 64,
-      "primaryPhotoId": 5820,
-      "primary_breed_id": 114,
-      "primary_breed": "Beagle",
-      "secondary_breed": null,
-      "addr_city": "Braga",
-      "addr_state_code": "PT-08",
-      "details_url": "https://example.org/pets/64",
-      "results_photo_url": "https://place.dog/512/384",
-      "results_photo_width": 512,
-      "results_photo_height": 384,
-      "large_results_photo_url": "https://place.dog/1024/768",
-      "large_results_photo_width": 1024,
-      "large_results_photo_height": 768
-    }
-  ]
+  "pet_id": "64",
+  "pet_name": "Willow",
+  "sex": "Female",
+  "age": "Baby",
+  "size": "Small",
+  "order": 64,
+  "primaryPhotoId": 5820,
+  "primary_breed_id": 114,
+  "primary_breed": "Beagle",
+  "secondary_breed": null,
+  "addr_city": "Braga",
+  "addr_state_code": "PT-08",
+  "details_url": "https://example.org/pets/64",
+  "results_photo_url": "https://place.dog/512/384",
+  "results_photo_width": 512,
+  "results_photo_height": 384,
+  "large_results_photo_url": "https://place.dog/1024/768",
+  "large_results_photo_width": 1024,
+  "large_results_photo_height": 768
 }

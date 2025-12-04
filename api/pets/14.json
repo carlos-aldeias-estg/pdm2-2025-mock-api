@@ -1,26 +1,21 @@
 {
-  "status": "ok",
-  "pets": [
-    {
-      "pet_id": "14",
-      "pet_name": "Max",
-      "sex": "Male",
-      "age": "Adult",
-      "size": "Large",
-      "order": 14,
-      "primaryPhotoId": 4923,
-      "primary_breed_id": 30,
-      "primary_breed": "French Bulldog",
-      "secondary_breed": "Shepherd Mix",
-      "addr_city": "Porto",
-      "addr_state_code": "PT-13",
-      "details_url": "https://example.org/pets/14",
-      "results_photo_url": "https://place.dog/600/450",
-      "results_photo_width": 600,
-      "results_photo_height": 450,
-      "large_results_photo_url": "https://place.dog/1200/900",
-      "large_results_photo_width": 1200,
-      "large_results_photo_height": 900
-    }
-  ]
+  "pet_id": "14",
+  "pet_name": "Max",
+  "sex": "Male",
+  "age": "Adult",
+  "size": "Large",
+  "order": 14,
+  "primaryPhotoId": 4923,
+  "primary_breed_id": 30,
+  "primary_breed": "French Bulldog",
+  "secondary_breed": "Shepherd Mix",
+  "addr_city": "Porto",
+  "addr_state_code": "PT-13",
+  "details_url": "https://example.org/pets/14",
+  "results_photo_url": "https://place.dog/600/450",
+  "results_photo_width": 600,
+  "results_photo_height": 450,
+  "large_results_photo_url": "https://place.dog/1200/900",
+  "large_results_photo_width": 1200,
+  "large_results_photo_height": 900
 }

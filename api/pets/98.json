@@ -1,26 +1,21 @@
 {
-  "status": "ok",
-  "pets": [
-    {
-      "pet_id": "98",
-      "pet_name": "Leo",
-      "sex": "Female",
-      "age": "Baby",
-      "size": "Large",
-      "order": 98,
-      "primaryPhotoId": 3153,
-      "primary_breed_id": 47,
-      "primary_breed": "Bengal Cat",
-      "secondary_breed": "Terrier Mix",
-      "addr_city": "Setúbal",
-      "addr_state_code": "PT-01",
-      "details_url": "https://example.org/pets/98",
-      "results_photo_url": "https://placecats.com/400/300",
-      "results_photo_width": 400,
-      "results_photo_height": 300,
-      "large_results_photo_url": "https://placecats.com/800/600",
-      "large_results_photo_width": 800,
-      "large_results_photo_height": 600
-    }
-  ]
+  "pet_id": "98",
+  "pet_name": "Leo",
+  "sex": "Female",
+  "age": "Baby",
+  "size": "Large",
+  "order": 98,
+  "primaryPhotoId": 3153,
+  "primary_breed_id": 47,
+  "primary_breed": "Bengal Cat",
+  "secondary_breed": "Terrier Mix",
+  "addr_city": "Setúbal",
+  "addr_state_code": "PT-01",
+  "details_url": "https://example.org/pets/98",
+  "results_photo_url": "https://placecats.com/400/300",
+  "results_photo_width": 400,
+  "results_photo_height": 300,
+  "large_results_photo_url": "https://placecats.com/800/600",
+  "large_results_photo_width": 800,
+  "large_results_photo_height": 600
 }

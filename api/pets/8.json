@@ -1,26 +1,21 @@
 {
-  "status": "ok",
-  "pets": [
-    {
-      "pet_id": "8",
-      "pet_name": "Tucker",
-      "sex": "Male",
-      "age": "Adult",
-      "size": "XLarge",
-      "order": 8,
-      "primaryPhotoId": 5386,
-      "primary_breed_id": 34,
-      "primary_breed": "French Bulldog",
-      "secondary_breed": "Shepherd Mix",
-      "addr_city": "Setúbal",
-      "addr_state_code": "PT-03",
-      "details_url": "https://example.org/pets/8",
-      "results_photo_url": "https://place.dog/600/450",
-      "results_photo_width": 600,
-      "results_photo_height": 450,
-      "large_results_photo_url": "https://place.dog/1200/900",
-      "large_results_photo_width": 1200,
-      "large_results_photo_height": 900
-    }
-  ]
+  "pet_id": "8",
+  "pet_name": "Tucker",
+  "sex": "Male",
+  "age": "Adult",
+  "size": "XLarge",
+  "order": 8,
+  "primaryPhotoId": 5386,
+  "primary_breed_id": 34,
+  "primary_breed": "French Bulldog",
+  "secondary_breed": "Shepherd Mix",
+  "addr_city": "Setúbal",
+  "addr_state_code": "PT-03",
+  "details_url": "https://example.org/pets/8",
+  "results_photo_url": "https://place.dog/600/450",
+  "results_photo_width": 600,
+  "results_photo_height": 450,
+  "large_results_photo_url": "https://place.dog/1200/900",
+  "large_results_photo_width": 1200,
+  "large_results_photo_height": 900
 }

@@ -1,26 +1,21 @@
 {
-  "status": "ok",
-  "pets": [
-    {
-      "pet_id": "94",
-      "pet_name": "Luna",
-      "sex": "Female",
-      "age": "Adult",
-      "size": "Medium",
-      "order": 94,
-      "primaryPhotoId": 2210,
-      "primary_breed_id": 227,
-      "primary_breed": "Poodle",
-      "secondary_breed": "Shepherd Mix",
-      "addr_city": "Faro",
-      "addr_state_code": "PT-01",
-      "details_url": "https://example.org/pets/94",
-      "results_photo_url": "https://place.dog/512/384",
-      "results_photo_width": 512,
-      "results_photo_height": 384,
-      "large_results_photo_url": "https://place.dog/1024/768",
-      "large_results_photo_width": 1024,
-      "large_results_photo_height": 768
-    }
-  ]
+  "pet_id": "94",
+  "pet_name": "Luna",
+  "sex": "Female",
+  "age": "Adult",
+  "size": "Medium",
+  "order": 94,
+  "primaryPhotoId": 2210,
+  "primary_breed_id": 227,
+  "primary_breed": "Poodle",
+  "secondary_breed": "Shepherd Mix",
+  "addr_city": "Faro",
+  "addr_state_code": "PT-01",
+  "details_url": "https://example.org/pets/94",
+  "results_photo_url": "https://place.dog/512/384",
+  "results_photo_width": 512,
+  "results_photo_height": 384,
+  "large_results_photo_url": "https://place.dog/1024/768",
+  "large_results_photo_width": 1024,
+  "large_results_photo_height": 768
 }

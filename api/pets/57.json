@@ -1,26 +1,21 @@
 {
-  "status": "ok",
-  "pets": [
-    {
-      "pet_id": "57",
-      "pet_name": "Roxy",
-      "sex": "Male",
-      "age": "Baby",
-      "size": "Medium",
-      "order": 57,
-      "primaryPhotoId": 6096,
-      "primary_breed_id": 56,
-      "primary_breed": "Siberian Husky",
-      "secondary_breed": null,
-      "addr_city": "Faro",
-      "addr_state_code": "PT-01",
-      "details_url": "https://example.org/pets/57",
-      "results_photo_url": "https://place.dog/600/450",
-      "results_photo_width": 600,
-      "results_photo_height": 450,
-      "large_results_photo_url": "https://place.dog/1200/900",
-      "large_results_photo_width": 1200,
-      "large_results_photo_height": 900
-    }
-  ]
+  "pet_id": "57",
+  "pet_name": "Roxy",
+  "sex": "Male",
+  "age": "Baby",
+  "size": "Medium",
+  "order": 57,
+  "primaryPhotoId": 6096,
+  "primary_breed_id": 56,
+  "primary_breed": "Siberian Husky",
+  "secondary_breed": null,
+  "addr_city": "Faro",
+  "addr_state_code": "PT-01",
+  "details_url": "https://example.org/pets/57",
+  "results_photo_url": "https://place.dog/600/450",
+  "results_photo_width": 600,
+  "results_photo_height": 450,
+  "large_results_photo_url": "https://place.dog/1200/900",
+  "large_results_photo_width": 1200,
+  "large_results_photo_height": 900
 }

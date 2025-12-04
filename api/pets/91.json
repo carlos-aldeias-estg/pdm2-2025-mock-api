@@ -1,26 +1,21 @@
 {
-  "status": "ok",
-  "pets": [
-    {
-      "pet_id": "91",
-      "pet_name": "Milo",
-      "sex": "Male",
-      "age": "Senior",
-      "size": "Medium",
-      "order": 91,
-      "primaryPhotoId": 5906,
-      "primary_breed_id": 463,
-      "primary_breed": "Labrador Retriever",
-      "secondary_breed": null,
-      "addr_city": "Setúbal",
-      "addr_state_code": "PT-11",
-      "details_url": "https://example.org/pets/91",
-      "results_photo_url": "https://place.dog/512/384",
-      "results_photo_width": 512,
-      "results_photo_height": 384,
-      "large_results_photo_url": "https://place.dog/1024/768",
-      "large_results_photo_width": 1024,
-      "large_results_photo_height": 768
-    }
-  ]
+  "pet_id": "91",
+  "pet_name": "Milo",
+  "sex": "Male",
+  "age": "Senior",
+  "size": "Medium",
+  "order": 91,
+  "primaryPhotoId": 5906,
+  "primary_breed_id": 463,
+  "primary_breed": "Labrador Retriever",
+  "secondary_breed": null,
+  "addr_city": "Setúbal",
+  "addr_state_code": "PT-11",
+  "details_url": "https://example.org/pets/91",
+  "results_photo_url": "https://place.dog/512/384",
+  "results_photo_width": 512,
+  "results_photo_height": 384,
+  "large_results_photo_url": "https://place.dog/1024/768",
+  "large_results_photo_width": 1024,
+  "large_results_photo_height": 768
 }
